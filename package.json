@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-exercises-d02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeltechchallenge/express-exercise-BenyaminLea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeltechchallenge/express-exercise-BenyaminLea/issues"
+  },
+  "homepage": "https://github.com/israeltechchallenge/express-exercise-BenyaminLea#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
